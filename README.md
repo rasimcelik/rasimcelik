@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rasim Çelik</h1>
+<h1 align="center">Hi 👋, I'm Rasim</h1>
 <h3 align="center">A passionate frontend and python developer</h3>
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.webp"></img>
 
