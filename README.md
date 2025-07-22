@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Django, Python Data Libraries**
 
-- 👨‍💻 All of my projects are available at [https://rasimcelik.netlify.app/](https://rasimcelik.netlify.app/)
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me **mail.rasimcelik@gmail.com**
 
